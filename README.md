@@ -51,6 +51,12 @@ The objective of this project is to explore weather patterns, understand relatio
 
 ## 👨‍💻 Author
 
+Archita Kolge
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
+
 Created as a Data Analytics and Python project using Jupyter Notebook.
 
 Thank you for visiting my project!
