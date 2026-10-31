@@ -51,7 +51,7 @@ The objective of this project is to explore weather patterns, understand relatio
 
 ## 👨‍💻 Author
 
-Archita Kolge
+**Archita Kolge**
 
 B.Sc. IT Graduate | Data Analyst
 
