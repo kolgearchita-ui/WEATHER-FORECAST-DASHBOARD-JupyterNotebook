@@ -1,12 +1,12 @@
-🌦️ Weather Forecast Analysis – Python
+## 🌦️ Weather Forecast Analysis – Python
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project focuses on analyzing weather data using Python in Jupyter Notebook. It provides meaningful insights into weather conditions through data analysis and visualization.
 
 The dashboard presents important weather metrics such as average temperature, humidity, wind speed, rainfall, and cloud cover using different charts and graphs.
 
-🎯 Key Features
+## 🎯 Key Features
 
 - Average Temperature: Displays the average temperature in Celsius.
 - Average Humidity: Analyzes the average humidity percentage.
@@ -18,7 +18,7 @@ The dashboard presents important weather metrics such as average temperature, hu
 - Cloud Cover Trend: Visualizes changes in cloud cover.
 - Temperature & Pressure Trend: Compares temperature and atmospheric pressure patterns.
 
-🛠️ Tools & Technologies Used
+## 🛠️ Tools & Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -27,13 +27,15 @@ The dashboard presents important weather metrics such as average temperature, hu
 - Matplotlib
 - Seaborn
 
-📸 Dashboard Screenshot
+## 📸 Dashboard Preview
 
-Weather Forecast Analysis Dashboard
+### Weather Forecast Dashboard
 
-"Weather Forecast Dashboard" (screenshots/weather-forecast-dashboard.png)
+![Weather Forecast Dashboard](https://raw.githubusercontent.com/kolgearchita-ui/WEATHER-FORECAST-DASHBOARD-JupyterNotebook/main/snapshot%20of%20the%20weather%20forecast%20dashboard.png)
 
-💡 Key Skills Demonstrated
+
+
+## 💡 Key Skills Demonstrated
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -43,11 +45,11 @@ Weather Forecast Analysis Dashboard
 - Working with Pandas and NumPy
 - Creating charts using Matplotlib and Seaborn
 
-🚀 Project Objective
+## 🚀 Project Objective
 
 The objective of this project is to explore weather patterns, understand relationships between different weather parameters, and transform raw weather data into meaningful visual insights using Python.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Created as a Data Analytics and Python project using Jupyter Notebook.
 
